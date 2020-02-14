@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WhatsTheWeather</string>
+    <string name="enter_city">Enter a City..</string>
+    <string name="default_city">london</string>
+    <string name="btn_string">Whats the weather</string>
+</resources>
